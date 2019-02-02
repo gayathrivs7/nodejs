@@ -5,3 +5,4 @@ http.createServer(function(req,res){
     res.end();
 
 }).listen(8080);
+console.log("Server is running on http://127.0.0.8000");
